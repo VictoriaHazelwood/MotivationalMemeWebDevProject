@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+
+h1{
+    font-weight: bold;
+   
+}
+#meme{
+    height: 150px;
+    width: 100px;
+}
